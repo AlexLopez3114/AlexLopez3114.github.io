@@ -48,3 +48,7 @@ My GitHub page is [http://github.com/AlexLopez3114](http://github.com/AlexLopez3
    everything we’ve learned up to this point, while also being able to be
    simplified by reading the counties and population numbers from another
    file.
+
+<a href="https://www.youtube.com/watch?v=9iIs6QDfytg
+" target="_blank"><img src="https://raw.githubusercontent.com/AlexLopez3114/alex_lopez.github.io/main/images/Splatoon_Image_10.jpg"
+alt="DEEPSEA METRO" width="1100" height="600" border="40" /></a>
